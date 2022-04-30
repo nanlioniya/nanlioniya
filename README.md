@@ -2,10 +2,9 @@
 <p>NYCU CS '13</p>
 
 _Previously_: Research Assistant (SDN Technology Center, NYCU / front-end developer)
-
 <br>
 - 🌱 Recent Interests: Unreal Engine & Blender. I'm interested in Computer Graphics and all sorts of CA genra😀   
-<br>
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
