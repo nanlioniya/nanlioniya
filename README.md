@@ -1,10 +1,9 @@
 ### Hey there, I'm [Elena](https://nanlioniya.github.io)! 👋
 <p>NYCU CS '13</p>
 
-_Previously_: Research Assistant (SDN Technology Center, NYCU) - creating a xAPP dashboard.(front-end developer)
+_Previously_: Research Assistant (SDN Technology Center, NYCU / front-end developer)
 
 <br>
-
 - 🌱 Recent Interests: Unreal Engine & Blender. I'm interested in Computer Graphics and all sorts of CA genra😀   
 
 **Languages and Tools:**  
