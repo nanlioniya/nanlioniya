@@ -1,7 +1,7 @@
 ### Hey there, I'm [Elena](https://nanlioniya.github.io)! 👋
 <p>NYCU CS '13</p>
 
-_Previously_ :  Research Assistant (@SDN Technology Center, NYCU / front-end developer), Teaching Assistant (@NTHU, C++ winter camp)
+_Previously_ :  Research Assistant (@SDN Technology Center, NYCU / front-end developer)
 <br>
 - 🌱 Recent Interests: Unreal Engine & Blender & Computer Graphics & all sorts of CA 😀   
 
