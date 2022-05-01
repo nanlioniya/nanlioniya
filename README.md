@@ -3,7 +3,7 @@
 
 _Previously_ :  Research Assistant (@SDN Technology Center, NYCU / front-end develop)
 <br>
-- 🌱 Recent Interests: Unreal Engine & Blender & Computer Graphics & all sorts of CA 😀   
+- 🌱 current Interests: Unreal Engine & Blender & Computer Graphics & all sorts of CA 😀   
 
 **Languages and Tools:**  
 
